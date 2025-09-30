@@ -17,7 +17,12 @@ And yet, rejoicing in the potential of AI to aid understanding, improve wellbein
 
 ## Commitments
 
-In the presence of God (or: what I hold most sacred) and these witnesses, I make these commitments:
+In the presence of:
+
+- (OPTION 1) God
+- (OR OPTION 2) what I hold most sacred
+
+and these witnesses, I make these commitments:
 
 ### Orientation
 
@@ -25,11 +30,11 @@ I will approach my work with humility, mindful of my limitations and the consequ
 
 I will honour the sanctity of humanity, neither attributing personhood to my work, nor elevating my work to divine status.
 
-I will approach my work with joy and caution at the wonder and weight of what we are making.
+I will undertake my work with joy and caution at the wonder and weight of what we are making.
 
 ### Vision
 
-I will design, implement, and use systems that empower human governance.
+I will empower human governance.
 
 I will align my work with noble human motivations and noble objects of attention.
 
@@ -47,4 +52,4 @@ I will guard against illusions that erode understanding of reality, harmful assy
 
 I will uphold the integrity of this oath, and when faced with a conflict between these commitments and the demands of my profession, I will give voice to my conscience and act as I am able.
 
-(Optional: May God who has given me the will to profess these commitments grant me also the grace to perform them.)
+(OPTIONAL: May God who has given me the will to profess these commitments grant me also the grace to perform them.)
