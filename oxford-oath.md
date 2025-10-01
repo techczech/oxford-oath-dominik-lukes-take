@@ -2,9 +2,9 @@
 
 ## Motto
 
-Ostendat ex bona conversatione operationem suam in mansuetudine sapientiae. (James 3:11)
+Ostendat ex bona conversatione operationem suam in mansuetudine sapientiae. (James 3:13)
 
-*Show by good conduct that your works are in the humility of wisdom.*
+*Show by good conduct that your works come from the humility of wisdom.*
 
 ## Preamble
 
@@ -49,7 +49,7 @@ I will embed honesty in my work about the nature, imperfections, and limits of A
 
 I will strive to make my work an instrument of peace.
 
-I will guard against illusions that erode understanding of reality, harmful assymetries of power, and the devaluation of good and creative forms of human work.
+I will guard against illusions that erode understanding of reality, harmful asymmetries of power, and the devaluation of good and creative forms of human work.
 
 ## Conclusion
 
