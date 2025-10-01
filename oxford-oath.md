@@ -1,7 +1,10 @@
+# Oxford oath text
 
 ## Motto
 
 Ostendat ex bona conversatione operationem suam in mansuetudine sapientiae. (James 3:11)
+
+*Show by good conduct that your works are in the humility of wisdom.*
 
 ## Preamble
 
