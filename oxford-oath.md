@@ -36,7 +36,7 @@ I will undertake my work with joy and caution at the wonder and weight of what w
 
 I will empower human governance.
 
-I will align my work with noble human motivations and noble objects of attention.
+I will align my work with virtuous human motivations and worthy objects of attention.
 
 I will develop my work to support the social fabric of humanity and safeguard the the natural world.
 
