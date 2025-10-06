@@ -1,6 +1,8 @@
 # The Oxford Oath
 
-The Oxford Oath for Artificial Intelligence began in early 2024, and since October 2024 has been funded by a donation from the John Templeton Foundation. It is a project of the Ian Ramsey Centre for Science and Religion, part of the Faculty of Theology and Religion at the University of Oxford.
+The current version is available here: <https://github.com/lyndondrake/oxford-oath/>
+
+The development of the Oxford Oath for Artificial Intelligence began in early 2024, and since October 2024 has been part of a project (the Oxford Collaboration on Theology and Artificial Intelligence, OCTAI) funded by a donation from the John Templeton Foundation. The OCTAI project is hosted by the Ian Ramsey Centre for Science and Religion, part of the Faculty of Theology and Religion at the University of Oxford.
 
 An oath is different from a code of practice or a set of standards. It identifies an ethos, on which other ethical layers such as the ethical commitments found in a code of practice, or the ethical standards found in formalised standards, can be layered.
 
