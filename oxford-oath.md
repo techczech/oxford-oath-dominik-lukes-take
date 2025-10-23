@@ -12,11 +12,13 @@ Believing in the sanctity of every human person, and that technology ought to se
 
 Conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us;
 
-Recognising that AI work requires the exercise of judgement for technical choices made with limited information and agency, and which have consequences for humans;
+Recognising that the work I do requires the exercise of judgement not just in the technical choices I make but also in the way I act while after I made them and speak about them and the certainty I evince. 
 
-Lamenting the ways AI has already been used to erode attention, displace human connection, degrade the dignity of work, and inflict harm upon the natural world;
+Fearful of the unintended consquences on the welfare and dignity of individual humans and humanity as a whole;
 
-And yet, rejoicing in the potential of AI to aid understanding, improve wellbeing, democratise opportunity, and empower humanity in our shared vocation to seek the true, the good, and the beautiful;
+Lamenting the ways such unintended consequences of choices made has already resulted in outcomes which many experience in as the displacement human connection, degradation of the dignity of work, and contributing to the erosive footprint technology has always left upon the natural world;
+
+And yet, rejoicing in the potential of AI to aid understanding, improve wellbeing, expand opportunity, and empower humanity in our shared vocation to seek the true, the good, and the beautiful;
 
 ## Commitments
 
@@ -29,15 +31,15 @@ and these witnesses, I make these commitments:
 
 ### Orientation
 
-I will approach my work with humility, mindful of my limitations and the consequences of my actions.
+I will approach my work with humility, mindful of my limitations and the consequences of my actions and uncertainty of my predictions.
 
-I will honour the sanctity of humanity, neither attributing personhood to my work, nor elevating my work to divine status.
+I will honour the sanctity of humanity, and be hesitant in elevating my work to divine status..
 
 I will undertake my work with joy and caution at the wonder and weight of what we are making.
 
 ### Vision
 
-I will empower human governance.
+I will empower human agency.
 
 I will align my work with virtuous human motivations and worthy objects of attention.
 
